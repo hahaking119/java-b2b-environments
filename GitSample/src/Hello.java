@@ -14,4 +14,8 @@ public class Hello {
 		// yeni method
 	}
 
+	public void localMethod() {
+		// local method
+	}
+
 }
