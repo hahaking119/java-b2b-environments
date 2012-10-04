@@ -8,6 +8,11 @@ public class Hello {
 		System.out.println("Hello");
 		// İlk Comment
 		// localden gelistirme
+		// localden gelistirme
+	}
+
+	public void deneme() {
+		// yeni method
 	}
 
 }
