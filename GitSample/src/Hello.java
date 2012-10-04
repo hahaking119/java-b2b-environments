@@ -21,7 +21,7 @@ public class Hello {
 	/* bu da webden */
 
 	public void dene() {
-		// asdasd ///
+		// asdasd /// :)
 	}
 
 }
