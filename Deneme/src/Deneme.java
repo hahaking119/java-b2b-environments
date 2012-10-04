@@ -1,5 +1,5 @@
 public class Deneme {
 	// hayda
 	// denem
-	// localden eklendi
+	// webden düzeltildi.
 }
