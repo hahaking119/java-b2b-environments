@@ -1,6 +1,6 @@
 public class Deneme {
 	// hayda
 	// denem
-	// localden eklendi
+	// webden düzeltildi.
 	// local yazıyo -> webde de düldi üst satir
 }
